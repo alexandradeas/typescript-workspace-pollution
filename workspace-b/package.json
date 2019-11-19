@@ -1,0 +1,13 @@
+{
+  "name": "workspace-b",
+  "version": "1.0.0",
+  "description": "A TS project with strong compiler options",
+  "main": "src/index",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.0-dev.20191119"
+  },
+  "dependencies": {
+    "workspace-a": "^1.0.0"
+  }
+}
